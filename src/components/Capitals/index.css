@@ -1,0 +1,48 @@
+.bg-color {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-selection-color {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 40vw;
+  text-align: start;
+}
+
+.arrange {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 15px;
+}
+
+p {
+  margin-left: 10px;
+  font-size: 10px;
+  color: #323f4b;
+}
+
+select {
+  height: 25px;
+  width: 120px;
+}
+
+h1 {
+  margin-left: 15px;
+  color: #000000;
+}
+
+.countryName {
+  margin-left: 6px;
+}
+
+.country {
+  color: #1e293b;
+  font-size: 24px;
+}
